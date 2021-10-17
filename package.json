@@ -1,0 +1,19 @@
+{
+  "name": "newsletter_signup",
+  "version": "1.0.0",
+  "description": "A landing and signup page for a Newsletter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Animasaun",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chrome-launcher": "^0.14.1",
+    "express": "^4.17.1",
+    "lighthouse": "^8.5.1",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2"
+  }
+}
